@@ -1,0 +1,20 @@
+p::first-letter
+{
+color:blue;
+font-size: xx-large;
+font-variant: small-caps;
+}
+::marker
+{
+    color:blueviolet;
+    font-size: 26px;
+}
+::selection
+{
+    color:brown;
+    background-color:blue;
+}
+p{
+    border: 8px solid rosybrown;
+    border-bottom-left-radius: 10px;
+}

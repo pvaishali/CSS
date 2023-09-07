@@ -1,0 +1,41 @@
+
+   /* border: 3px solid gold;
+    padding-top: 32px;
+    padding-bottom: 52px;
+    padding-right: 23px;
+    padding-left: 32px;
+    text-indent: 23px;
+    letter-spacing: 3px;
+  word-spacing: 5px;
+  line-height: 40px;*/
+  .div1
+  {
+  width: 300px;
+  height:100px;
+  border: 2px solid maroon;
+  box-sizing:  border-box;
+}
+.div2
+{
+width: 300px;
+height: 100px;
+padding: 50px;
+border: 2px solid mediumseagreen;
+box-sizing:  border-box;
+}
+p{
+    text-decoration-line: line-through;
+    text-transform: uppercase;
+    text-decoration-color:blueviolet;
+    text-shadow: 9px 12px 5px yellow;
+}
+p1{
+    text-decoration-line:overline ;
+    text-decoration-color: aqua;
+    text-decoration-thickness:1px;
+    text-transform: capitalize;
+}
+p2{
+    text-decoration-line: underline;
+    text-transform: lowercase;
+}
